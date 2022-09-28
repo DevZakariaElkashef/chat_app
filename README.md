@@ -1,2 +1,1 @@
-# chat_app
-# chat_app
+# Realtime Chat Application
